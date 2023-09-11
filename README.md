@@ -1,2 +1,2 @@
-# myResume
-this is my resume
+# MyResume
+My Resume
